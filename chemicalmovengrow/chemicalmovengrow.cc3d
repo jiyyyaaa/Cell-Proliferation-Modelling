@@ -1,6 +1,0 @@
-<Simulation version="4.5.0">
-   <XMLScript Type="XMLScript">Simulation/chemicalmovengrow.xml</XMLScript>
-   <PythonScript Type="PythonScript">Simulation/chemicalmovengrow.py</PythonScript>
-   <Resource Type="Python">Simulation/chemicalmovengrowSteppables.py</Resource>
-   <ParameterScan Type="ParameterScan">Simulation/ParameterScanSpecs.json</ParameterScan>
-</Simulation>
